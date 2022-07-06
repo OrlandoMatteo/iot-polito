@@ -10,6 +10,6 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
-	site:'https://orlandomatteo.github.io/iot-polito/',
+	site:'https://orlandomatteo.github.io/',
 	base: 'iot-polito',
 });

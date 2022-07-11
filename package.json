@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@algolia/client-search": "^4.13.1",
+    "@astrojs/compiler": "^0.18.0",
+    "@astrojs/sitemap": "^0.2.5",
     "@docsearch/css": "^3.1.0",
     "@docsearch/react": "^3.1.0",
     "@types/react": "^17.0.45",

@@ -38,10 +38,9 @@ export const SIDEBAR = {
 		{ text: 'Training', header: true },
 		{ text: 'Install Python',link: 'en/Training/install-python'},
 		{ text: 'Introduction', link: 'en/Training/introduction' },
-		{ text: 'Page 2', link: 'en/page-2' },
-		{ text: 'Page 3', link: 'en/page-3' },
-
+		{ text: 'Object Oriented Programming', link: 'en/Training/object-oriented-programming' },
+		{ text: 'REST', link: 'en/Training/rest' },
+		{ text: 'MQTT', link: 'en/Training/mqtt' },
 		{ text: 'Laboratories', header: true },
-		{ text: 'Page 4', link: 'en/page-4' },
 	],
 };

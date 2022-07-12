@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: 'Programming for IoT',
+	description: 'Exercise and laboratory for IoT',
 	defaultLanguage: 'en_US',
 };
 

@@ -148,7 +148,7 @@ Create the classes "Contact" that must be able to store the contact presents in 
 Using the class "Contact" fromt he previous exercise and "AddressBook".
 The "AddressBook" class must be able to read the content of the file and perform CRUD (Create,Read,Update,Delete). The Update is the most difficult so i suggest to begin with the other. Below you can find an example
 
----
+
 
 ```python
 from Exercise_5 import *
@@ -159,7 +159,7 @@ book.remove_contact('Dan') #remove a contact according to his name
 book.add_contact('Peter','Parker','notspiderman@marvel.com') #add a contact
 ```
 
----
+
 Once you've done this you can now create a client to use the functions you implemented in a "user-frienldy way"
 The result should be something like the following
 
@@ -171,7 +171,7 @@ Press 'f' to find a contact
 Press 'd' to delete a contact
 Press 'q' to quit
 ```
----
+
 
 ## Exercise 6
 
